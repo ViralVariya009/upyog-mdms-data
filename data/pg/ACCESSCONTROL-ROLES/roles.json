@@ -928,14 +928,14 @@
       "description": "Internal role for plain access"
     },
 	{
-	  "code": "REFUND_VERIFIER",
+	  "code": "CHB_REFUND_VERIFIER",
 	  "name": "Refund Verifier",
-	  "description": "Role for verifying refund requests"
+	  "description": "Role for verifying CHB refund requests"
 	},
 	{
-	  "code": "REFUND_APPROVER",
-	  "name": "Refund Approver",
-	  "description": "Role for approving refund requests"
+	  "code": "CHB_REFUND_APPROVER",
+	  "name": "CHB Refund Approver",
+	  "description": "Role for approving CHB refund requests"
 	}
 
   ]
