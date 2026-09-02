@@ -21778,54 +21778,6 @@
       "serviceCode": "pg-service",
       "code": "null",
       "path": ""
-    },
-	{
-		"id": 3106,
-		"name": "RefundService Refund Create",
-		"url": "/refund-services/refund/v1/_create",
-		"displayName": "Refund Create",
-		"orderNumber": 1,
-		"parentModule": "",
-		"enabled": true,
-		"serviceCode": "refund-services",
-		"code": "null",
-		"path": ""
-	},
-	{
-		"id": 3107,
-		"name": "RefundService Refund Update",
-		"url": "/refund-services/refund/v1/_update",
-		"displayName": "Refund Update",
-		"orderNumber": 2,
-		"parentModule": "",
-		"enabled": true,
-		"serviceCode": "refund-services",
-		"code": "null",
-		"path": ""
-	},
-	{
-		"id": 3108,
-		"name": "RefundService Refund Search",
-		"url": "/refund-services/refund/v1/_search",
-		"displayName": "Refund Search",
-		"orderNumber": 3,
-		"parentModule": "",
-		"enabled": true,
-		"serviceCode": "refund-services",
-		"code": "null",
-		"path": ""
-	},
-	{
-		"id": 3109,
-		"name": "RefundService Refund Get",
-		"url": "/refund-services/refund/v1/_get",
-		"displayName": "Refund Get",
-		"orderNumber": 4,
-		"parentModule": "",
-		"enabled": true,
-		"serviceCode": "refund-services",
-		"code": "null",
-		"path": ""
-	}
+    }
   ]
 }
